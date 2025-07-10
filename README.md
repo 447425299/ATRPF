@@ -56,4 +56,9 @@ python test.py --name three_view_long_share_d0.75_256_s1_google
 |--------|------------------------------|------------------------------|
 | ATRPF  | **82.50 / 84.28**          | **90.87 / 80.25**          |
 
-```
+## Pre-trained Models
+
+You can download the pre-trained ATRPF model weights from the following link:
+
+**Download Link**: [Quark Drive]([https://pan.quark.cn/s/0a44fcab7cb2])  
+**Password**: JcjG
